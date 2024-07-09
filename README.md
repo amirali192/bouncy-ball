@@ -1,2 +1,3 @@
-# bouncy-ball
-this project focuses on transitions and animation making
+# BOUNCY-BALL
+
+a simple project about animations and transitions
